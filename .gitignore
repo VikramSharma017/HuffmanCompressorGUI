@@ -1,0 +1,23 @@
+# Build files
+/build/
+/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt
+*_autogen/
+*.pro.user
+*.qmake.stash
+
+# Binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+
+# IDE
+*.user
+.idea/
+.vscode/

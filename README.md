@@ -1,6 +1,11 @@
 # HuffmanCompressorGUI
 
 A simple GUI-based file compression and decompression application using **Huffman Coding** implemented in **C++ with Qt6**.
+---
+<img width="450" height="360" alt="image" src="https://github.com/user-attachments/assets/ef8cd985-ba3f-4da5-9063-69fa2dcad46e" />
+<img width="450" height="360" alt="Screenshot 2025-07-10 152239" src="https://github.com/user-attachments/assets/1e64ab3b-feb9-4dcd-88c7-2db92272867b" />
+
+
 
 ---
 
